@@ -1,0 +1,697 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RealProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RealProject.8glb0alref.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\WhatsApp Image 2024-05-09 at 22.42.40_ae3b3c98.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2024-05-09 at 22.42.40_ae3b3c98.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\addresIcons.png",
+      "PackagePath": "staticwebassets\\images\\addresIcons.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\better.jpg",
+      "PackagePath": "staticwebassets\\images\\better.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_2.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\delivery-status.png",
+      "PackagePath": "staticwebassets\\images\\delivery-status.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\emailIcon.png",
+      "PackagePath": "staticwebassets\\images\\emailIcon.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\free-shipping.png",
+      "PackagePath": "staticwebassets\\images\\free-shipping.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\help-desk.png",
+      "PackagePath": "staticwebassets\\images\\help-desk.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\person_5.jpg",
+      "PackagePath": "staticwebassets\\images\\person_5.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\phoneIcon.png",
+      "PackagePath": "staticwebassets\\images\\phoneIcon.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\product_01.png",
+      "PackagePath": "staticwebassets\\images\\product_01.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\product_02.png",
+      "PackagePath": "staticwebassets\\images\\product_02.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\product_03.png",
+      "PackagePath": "staticwebassets\\images\\product_03.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\product_04.png",
+      "PackagePath": "staticwebassets\\images\\product_04.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\product_05.png",
+      "PackagePath": "staticwebassets\\images\\product_05.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\product_06.png",
+      "PackagePath": "staticwebassets\\images\\product_06.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\product_07_large.png",
+      "PackagePath": "staticwebassets\\images\\product_07_large.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\products_1.png",
+      "PackagePath": "staticwebassets\\images\\products_1.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\quality.jpg",
+      "PackagePath": "staticwebassets\\images\\quality.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\register.jpg",
+      "PackagePath": "staticwebassets\\images\\register.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\shoe.png",
+      "PackagePath": "staticwebassets\\images\\shoe.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\signin.jpg",
+      "PackagePath": "staticwebassets\\images\\signin.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\wave.svg",
+      "PackagePath": "staticwebassets\\images\\wave.svg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\images\\women.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\02d93873-9324-4d9c-b2f3-d2d583696f38_hero_1.jpg",
+      "PackagePath": "staticwebassets\\uploaded\\02d93873-9324-4d9c-b2f3-d2d583696f38_hero_1.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\1d70a93d-5e0b-444c-b997-5c5475bce228_product_01.png",
+      "PackagePath": "staticwebassets\\uploaded\\1d70a93d-5e0b-444c-b997-5c5475bce228_product_01.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\1eea2341-f252-43e0-9b62-f4dc0abcd884_calamox.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\1eea2341-f252-43e0-9b62-f4dc0abcd884_calamox.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\3bcc2801-1d59-4838-ad13-3d6b37542738_product_01.png",
+      "PackagePath": "staticwebassets\\uploaded\\3bcc2801-1d59-4838-ad13-3d6b37542738_product_01.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\3bcc2ad6-f2f4-4ae7-a6fa-0e8becbe9dfe_betnesol.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\3bcc2ad6-f2f4-4ae7-a6fa-0e8becbe9dfe_betnesol.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\44469cc1-d365-4019-9f61-34be8a6ace53_product_01.png",
+      "PackagePath": "staticwebassets\\uploaded\\44469cc1-d365-4019-9f61-34be8a6ace53_product_01.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\450d2147-1593-4731-a7d9-f8ccb38297ed_panadol.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\450d2147-1593-4731-a7d9-f8ccb38297ed_panadol.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\4af30f7b-32f4-4dcc-8d04-011a724d6096_panadol.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\4af30f7b-32f4-4dcc-8d04-011a724d6096_panadol.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\61750e4f-e9b0-4f98-ba45-012beb8c4800_hero_1.jpg",
+      "PackagePath": "staticwebassets\\uploaded\\61750e4f-e9b0-4f98-ba45-012beb8c4800_hero_1.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\662a94c0-04e3-4e8f-8783-1d809a0f5618_product_01.png",
+      "PackagePath": "staticwebassets\\uploaded\\662a94c0-04e3-4e8f-8783-1d809a0f5618_product_01.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\66c797ee-821c-4751-aedb-b02e67bb5bf6_betnesol.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\66c797ee-821c-4751-aedb-b02e67bb5bf6_betnesol.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\7397106c-e72f-4f40-b46d-8a1c443656c1_free-shipping.png",
+      "PackagePath": "staticwebassets\\uploaded\\7397106c-e72f-4f40-b46d-8a1c443656c1_free-shipping.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\762828ed-e455-45cd-910b-98f682e21692_product_01.png",
+      "PackagePath": "staticwebassets\\uploaded\\762828ed-e455-45cd-910b-98f682e21692_product_01.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\779b4ace-d13a-4f04-825b-dc92bd0652a5_hero_1.jpg",
+      "PackagePath": "staticwebassets\\uploaded\\779b4ace-d13a-4f04-825b-dc92bd0652a5_hero_1.jpg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\8760ed8d-a054-4388-a779-49ef0fa525cd_product_03.png",
+      "PackagePath": "staticwebassets\\uploaded\\8760ed8d-a054-4388-a779-49ef0fa525cd_product_03.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\8a7ad8b4-113e-47a5-89f1-e595c043dfc8_product_06.png",
+      "PackagePath": "staticwebassets\\uploaded\\8a7ad8b4-113e-47a5-89f1-e595c043dfc8_product_06.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\a0a8b0c5-cfe5-400f-a081-916fea0f1f58_emailIcon.png",
+      "PackagePath": "staticwebassets\\uploaded\\a0a8b0c5-cfe5-400f-a081-916fea0f1f58_emailIcon.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\a99bd4ed-5195-4a8d-b006-8d1b38b1ce43_product_02.png",
+      "PackagePath": "staticwebassets\\uploaded\\a99bd4ed-5195-4a8d-b006-8d1b38b1ce43_product_02.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\b5a17628-532c-4db6-85e0-8c20a1347b9e_vibramycin.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\b5a17628-532c-4db6-85e0-8c20a1347b9e_vibramycin.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\b9682962-b6c5-4343-b452-7693cb3d2a7e_vibramycin.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\b9682962-b6c5-4343-b452-7693cb3d2a7e_vibramycin.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\c648b566-3f37-4dee-aff6-288be8450095_vibramycin.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\c648b566-3f37-4dee-aff6-288be8450095_vibramycin.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\c97b628a-5c2b-4bbb-babf-7a31d56a51cc_product_03.png",
+      "PackagePath": "staticwebassets\\uploaded\\c97b628a-5c2b-4bbb-babf-7a31d56a51cc_product_03.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\ce4665e0-77c1-470d-9da0-9a4a83353b2e_risek.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\ce4665e0-77c1-470d-9da0-9a4a83353b2e_risek.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\cf5bd172-8f15-4e45-8f62-b0259fe0e08b_panadol.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\cf5bd172-8f15-4e45-8f62-b0259fe0e08b_panadol.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\d34d00d0-45bf-422d-893f-8b4c9c07d903_zerodol-sp.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\d34d00d0-45bf-422d-893f-8b4c9c07d903_zerodol-sp.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\da3f9029-a3d9-4556-96f4-e664d0224170_zerodol-sp.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\da3f9029-a3d9-4556-96f4-e664d0224170_zerodol-sp.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\e00a7953-89f0-49f8-868e-571be2d91a1f_zerodol-sp.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\e00a7953-89f0-49f8-868e-571be2d91a1f_zerodol-sp.jpeg"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\ef7a007e-9466-4ef4-a939-3b03d72918ae_product_01.png",
+      "PackagePath": "staticwebassets\\uploaded\\ef7a007e-9466-4ef4-a939-3b03d72918ae_product_01.png"
+    },
+    {
+      "Id": "D:\\RealProject\\RealProject\\RealProject\\wwwroot\\uploaded\\fd5144fe-6516-41ae-ab64-ca585e0293f0_calamox.jpeg",
+      "PackagePath": "staticwebassets\\uploaded\\fd5144fe-6516-41ae-ab64-ca585e0293f0_calamox.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RealProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RealProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RealProject.props",
+      "PackagePath": "build\\RealProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RealProject.props",
+      "PackagePath": "buildMultiTargeting\\RealProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RealProject.props",
+      "PackagePath": "buildTransitive\\RealProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

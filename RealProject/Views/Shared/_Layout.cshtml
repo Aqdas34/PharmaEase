@@ -1,0 +1,156 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<MyAppUser> SignInManager
+@inject UserManager<MyAppUser> UserManager
+
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="~/css/footer.css" />
+    <link rel="stylesheet" href="~/css/style.css" />
+   
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css"/>
+          <!-- Bootstrap CSS -->
+   
+    <title>PharmaEase</title>
+</head>
+<body>
+    
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" asp-area="" asp-action="Index" asp-controller="Home">PharmaEase</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" asp-area="" asp-action="Index" asp-controller="Home">Home <span class="sr-only"></span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Store" asp-action="store">Store</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" aria-disabled="true" asp-area="" asp-controller="About" asp-action="About">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-disabled="true" asp-area="" asp-controller="Contact" asp-action="Contact">Contact</a>
+                    </li>
+
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-action="Index" asp-controller="Admin" title="Admin">Dashboard</a>
+                            </li>
+                        }
+                        
+                        <li class="nav-item">
+                            <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                                <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                            </form>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Register</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">Login</a>
+                        </li>
+                    }
+
+                    
+
+                </ul>
+ 
+            </div>
+        </nav>
+    </header>
+    @RenderBody();
+
+    <footer class="footer-detail" style="margin-top:10rem;">
+        <div class="row">
+
+            <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+
+                <div class="block-7">
+                    <h3 class="footer-heading mb-4">About Us</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius quae reiciendis
+                        distinctio voluptates
+                        sed dolorum excepturi iure eaque, aut unde.
+                    </p>
+                </div>
+
+            </div>
+            <div class="col-lg-3 mx-auto mb-5 mb-lg-0 footer-links">
+                <h3 class="footer-heading mb-4">Quick Links</h3>
+                <ul class="list-unstyled">
+                    <li><a href="#">Supplements</a></li>
+                    <li><a href="#">Vitamins</a></li>
+                    <li><a href="#">Diet &amp; Nutrition</a></li>
+                    <li><a href="#">Tea &amp; Coffee</a></li>
+                </ul>
+            </div>
+
+
+
+            <div class="col-md-6 col-lg-3">
+                <div class="block-5 mb-5">
+                    <h3 class="footer-heading mb-4">Contact Info</h3>
+                    <ul class="list-unstyled">
+                        <li class="address mb-3">
+                            <img src="/images/addresIcons.png" alt="addres-icon"
+                                 width="20px"> 203 Fake St. Mountain View, San Francisco, California, USA
+                        </li>
+                        <li class="phone mb-3">
+                            <img src="/images/phoneIcon.png" alt="phone-icon"
+                                 width="20px"> +923081414005
+                        </li>
+                        <li class="email">
+                            <img src="/images/emailIcon.png" alt="email-icon" width="20px">
+                            emailaddress@domain.com
+                        </li>
+
+
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row pt-5 mt-5 text-center copy-right">
+                <div class="col-md-12">
+                    <p>
+                        Copyright &copy;
+                        <script>document.write(new Date().getFullYear());</script> All rights reserved
+                        by <a href="#" target="_blank">PharmaEase</a>
+                    </p>
+                </div>
+
+            </div>
+    </footer>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    @await RenderSectionAsync("Scripts", required: false)
+
+
+    
+    
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+      @* <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script> *@
+    @* <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-c6AB4AEM1JBBRZy2U1MYqICxwF2y4uMNV5Mz8bBmefkv2Ufae7p4dFfJXrqslzJ8" crossorigin="anonymous"></script> *@
+    @* <script src="/lib/bootstrap/js/bootstrap.min.js"></script> *@
+
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

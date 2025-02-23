@@ -1,0 +1,162 @@
+﻿
+
+<div class="bg-light py-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-0">
+                <a href="index.html">Home</a> <span class="mx-2 mb-0">/</span>
+                <strong class="text-black">Cart</strong>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section">
+    <div class="container">
+        <div class="row mb-5">
+           
+                <div class="site-blocks-table">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <td>ID</td>
+                                <th class="product-thumbnail">Image</th>
+                                <th class="product-name">Product</th>
+                                <th class="product-price">Price</th>
+                                <th class="product-quantity">Quantity</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @for (int i = 0; i < Model.Products.Count; i++)
+                            {
+                                <tr>
+                                    <td>
+                                        <input type="number" class="form-control" id="id" value="@Model.Products[i].Id" disabled>
+                                        <input type="hidden" name="productid" value="@Model.Products[i].Id">
+                                    </td>
+                                    <td class="product-thumbnail">
+                                        <img src="@Model.Products[i].ImagePath" alt="Image" class="img-fluid w-50">
+                                    </td>
+                                    <td class="product-name">
+                                        <h2 class="h5 text-black">@Model.Products[i].Name</h2>
+                                    </td>
+                                    <td>@Model.Products[i].Price</td>
+                                    <td>
+                                        <input type="text" class="form-control text-center" name="Quantity" value="@Model.CartDetails[i].Quantity"
+                                               aria-label="Example text with button addon" aria-describedby="button-addon1">
+                                    </td>
+                                    <td>
+                                        <a href="/order/delete/@Model.Products[i].Id" type="button" class="btn btn-danger">Remove</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                
+            
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="text-black h4" for="coupon">Coupon</label>
+                        <p>Enter your coupon code if you have one.</p>
+                    </div>
+                    <div class="col-md-8 mb-3 mb-md-0">
+                        <input type="text" class="form-control py-3" id="coupon" placeholder="Coupon Code">
+                    </div>
+                    <div class="col-md-4">
+                        <button class="btn btn-primary btn-md px-4">Apply Coupon</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 pl-5">
+                <div class="row justify-content-end">
+                    <div class="col-md-7">
+                        <div class="row">
+                            <div class="col-md-12 text-right border-bottom mb-5">
+                                <h3 class="text-black h4 text-uppercase">Cart Totals</h3>
+                            </div>
+                        </div>
+                        
+                        <div class="row mb-5">
+                            <div class="col-md-6">
+                                <span class="text-black">Total</span>
+                            </div>
+                            <div class="col-md-6 text-right">
+                                <strong class="text-black">@Model.Total</strong>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <a class="btn btn-primary btn-lg btn-block" asp-area="" asp-controller="order" asp-action="checkout">
+                                    Proceed To Checkout
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container block-10">
+    <div class="row mb-5">
+        <div class="col-md-6">
+            <figure>
+                <img src="/images/quality.jpg" alt="Image placeholder" class="img-fluid rounded">
+                <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span class="icon-play"></span></a>
+            </figure>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-5">
+            <div class="site-section-heading pt-3 mb-4">
+                <h2 class="text-black">Our Quality</h2>
+            </div>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius repellat, dicta at laboriosam, nemo
+                exercitationem itaque eveniet architecto cumque, deleniti commodi molestias repellendus quos sequi hic fugiat
+                asperiores illum. Atque, in, fuga excepturi corrupti error corporis aliquam unde nostrum quas.
+            </p>
+            <p>
+                Accusantium dolor ratione maiores est deleniti nihil? Dignissimos est, sunt nulla illum autem in, quibusdam
+                cumque recusandae, laudantium minima repellendus.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="site-section bg-light custom-border-bottom" data-aos="fade">
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-md-6 order-md-2">
+                <div class="block-16">
+                    <figure>
+                        <img src="/images/better.jpg" alt="Image placeholder" class="img-fluid rounded">
+                        <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo">
+                            <span class="icon-play"></span>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-5 mr-auto">
+                <div class="site-section-heading pt-3 mb-4">
+                    <h2 class="text-black">Better Environment</h2>
+                </div>
+                <p class="text-black">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius repellat, dicta at laboriosam, nemo
+                    exercitationem itaque eveniet architecto cumque, deleniti commodi molestias repellendus quos sequi hic fugiat
+                    asperiores illum. Atque, in, fuga excepturi corrupti error corporis aliquam unde nostrum quas.
+                </p>
+                <p class="text-black">
+                    Accusantium dolor ratione maiores est deleniti nihil? Dignissimos est, sunt nulla illum autem in, quibusdam
+                    cumque recusandae, laudantium minima repellendus.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

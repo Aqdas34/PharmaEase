@@ -1,0 +1,71 @@
+﻿
+ <main>
+
+    <div class="site-section">
+
+        <div class="container">
+           
+                <div class="d-flex mb-2">
+                    <!-- Search Input -->
+                    <input id="searchQuery" class="form-control me-2" name="searchQuery" type="search" placeholder="Search by Name" aria-label="Search">
+                <button id="btnTwo" class="btn btn-outline-success" onclick="getData()">Filter</button>
+                </div>
+
+                <!-- Sort Options (Radio Buttons) -->
+                <div class="form-check mt-2">
+                    <input class="form-check-input" type="radio" name="searchBy" id="exampleRadios1" value="name" checked>
+                    <label class="form-check-label" for="exampleRadios1">By Name</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="searchBy" id="exampleRadios2" value="price">
+                    <label class="form-check-label" for="exampleRadios2">By Price</label>
+                </div>
+               
+            
+
+        </div>
+
+    </div>
+
+    <section id="hidden">
+        <partial name="MyView"/>
+    </section>
+
+
+
+   <script src="/lib/jquery/dist/jquery.min.js"></script>
+          
+   <script>
+
+       // making function to call Ajax function
+       function getData() {
+
+
+            // Getting input values
+           var searchQuery = $("#searchQuery").val();
+            var searchBy = $('input[name="searchBy"]:checked').val();
+
+       
+           $.ajax({
+               type: 'GET',
+               url: "/Store/MyView",
+               contentType: 'application/json, charset="utf-8"',
+               data: { searchQuery: searchQuery, searchBy: searchBy },
+               success: function (result) {
+                   $("#hidden").html(result);
+               },
+               error:function(){
+                   alert("Invalid data");
+               }
+
+           })
+       }
+       
+
+    </script> 
+
+
+
+
+  
+ </main>

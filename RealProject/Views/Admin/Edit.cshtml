@@ -1,0 +1,56 @@
+﻿<div class="container mt-4">
+    <form action="/admin/EditProduct" enctype="multipart/form-data" method="post">
+        <h1 class="text-center">Edit Medicine</h1>
+
+  
+
+        <div class="row mb-3">
+            <div class="col-12">
+                <label for="id" class="form-label">Medicine ID: </label>
+                <input type="number" class="form-control" id="id" value="@Model.Id" disabled>
+                <input type="hidden" name="id" value="@Model.Id">
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-lg-6">
+                <label for="name" class="form-label">Medicine Name: </label>
+                <input type="text" class="form-control" id="name" name="name" value="@Model.Name" required>
+            </div>
+            <div class="col-lg-6">
+                <label for="price" class="form-label">Price</label>
+                <input type="number" class="form-control" id="price" name="price" value="@Model.Price" required>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-lg-6">
+                <label for="company" class="form-label">Company Name: </label>
+                <input type="text" class="form-control" id="company" name="company" value="@Model.Company" required>
+            </div>
+            <div class="col-lg-6">
+                <label for="dosage" class="form-label">Dosage Type</label>
+                <input type="text" class="form-control" id="dosage" placeholder="Tablet, Syrup, etc." name="dosage" value="@Model.Dosage" required>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-12">
+                <label for="description" class="form-label">Description</label>
+
+                <textarea name="description" class="form-control" placeholder="Leave a comment here" id="description" style="height: 100px">@Model.Description</textarea>
+                   
+                
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label for="image" class="form-label">Upload Image</label>
+            <input class="form-control" type="file" id="image" name="image">
+        </div>
+
+        <div class="d-flex justify-content-center align-content-center">
+            <button type="submit" class="btn btn-primary w-50">Update Medicine</button>
+        </div>
+    </form>
+</div>

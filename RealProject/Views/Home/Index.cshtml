@@ -1,0 +1,122 @@
+﻿
+
+ <div class="site-blocks-cover" style="background-image: url('images/hero_1.jpg');">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7 mx-auto order-lg-2 align-self-center">
+          <div class="site-block-cover-content text-center">
+            <h2 class="sub-title">Effective Medicine, New Medicine Everyday</h2>
+            <h1>Welcome To Pharma</h1>
+            <p>
+              <a href="#" class="btn btn-primary px-5 py-3">Shop Now</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+<section>
+    <div class="container py-5">
+        <div class="row">
+
+
+
+
+            @foreach (var c in @Model)
+            {
+                <div class="col-md-4 col-sm-6 col-mb-4 mb-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="@c.ImagePath" class="card-img-top" style="aspect-ratio: 3/2; object-fit:contain;" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">@c.Name</h5>
+                            <p class="card-text">@c.Price</p>
+
+                            <form method="post" action="/order/AddToCart">
+                                <input type="hidden" name="id" value="@c.Id" />
+                                <div class="form-group">
+                                    <label for="quantity_@c.Id">Quantity:</label>
+                                    <input type="number" name="quantity" id="quantity_@c.Id" class="form-control" value="1" min="1" />
+                                </div>
+                                <button type="submit" class="btn btn-primary mt-2">Add to Cart</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            
+
+
+        </div>
+    </div>
+</section>
+
+ 
+
+
+
+  <div class="container block-10">
+    <div class="row mb-5">
+        <div class="col-md-6">
+            <figure>
+                <img src="images/quality.jpg" alt="Image placeholder" class="img-fluid rounded">
+                <a href="https://vimeo.com/channels/staffpicks/93951774"
+                    class="play-button popup-vimeo"><span class="icon-play"></span></a>
+
+            </figure>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-5">
+            <div class="site-section-heading pt-3 mb-4">
+                <h2 class="text-black">Our Quality</h2>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius repellat, dicta at laboriosam,
+                nemo
+                exercitationem itaque eveniet architecto cumque, deleniti commodi molestias repellendus quos
+                sequi hic fugiat
+                asperiores illum. Atque, in, fuga excepturi corrupti error corporis aliquam unde nostrum
+                quas.</p>
+            <p>Accusantium dolor ratione maiores est deleniti nihil? Dignissimos est, sunt nulla illum autem
+                in, quibusdam
+                cumque recusandae, laudantium minima repellendus.</p>
+        </div>
+    </div>
+</div>
+ 
+
+<div class="site-section bg-light custom-border-bottom" data-aos="fade">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-md-6 order-md-2">
+        <div class="block-16">
+          <figure>
+            <img src="images/better.jpg" alt="Image placeholder" class="img-fluid rounded">
+            <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span
+                class="icon-play"></span></a>
+
+          </figure>
+        </div>
+      </div>
+
+      <div class="col-md-1"></div>
+      <div class="col-md-5 mr-auto">
+
+        <div class="site-section-heading pt-3 mb-4">
+          <h2 class="text-black">Better Environment</h2>
+        </div>
+        <p class="text-black">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius repellat, dicta at laboriosam, nemo
+          exercitationem itaque eveniet architecto cumque, deleniti commodi molestias repellendus quos sequi hic fugiat
+          asperiores illum. Atque, in, fuga excepturi corrupti error corporis aliquam unde nostrum quas.</p>
+        <p class="text-black">Accusantium dolor ratione maiores est deleniti nihil? Dignissimos est, sunt nulla illum autem in, quibusdam
+          cumque recusandae, laudantium minima repellendus.</p>
+
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,41 @@
+.footer-heading {
+    font-size: 1.2rem;
+    color: #000;
+    margin-bottom: 1rem;
+}
+
+
+
+
+.footer-detail>li {
+    text-decoration: none;
+
+}
+
+.footer-links>ul>li>a {
+    text-decoration: none;
+    background-color: transparent;
+    color: #5c626e;
+}
+
+
+.footer-links>ul>li {
+    margin-bottom: 10px;
+}
+
+.block-7>p {
+    color: #5c626e;
+}
+
+.copy-right>div>p>a {
+    text-decoration: none;
+    color: #51EAEA;
+}
+
+.copy-right>div>p {
+    color: #8c92a0;
+}
+
+.footer-detail > .row{
+padding: 5rem;
+}
